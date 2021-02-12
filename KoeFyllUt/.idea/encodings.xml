@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/no/dat102/tabell/TabellKoe.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/no/hvl/dat102/adt/KoeADT.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/no/hvl/dat102/kjedet/KjedetKoe.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/no/hvl/dat102/kjedet/LinearNode.java" charset="windows-1252" />
   </component>
 </project>
