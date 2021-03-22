@@ -83,8 +83,10 @@ public class TabellMengde<T> implements MengdeADT<T> {
 		while (!funnet && i < antall){
 			if (element == tab[i]){
 				svar = tab[i];
-				tab[i] = null;
+				tab[i] = tab[antall-1];
+				tab[antall-1] = null;
 				funnet = true;
+				antall--;
 			}
 			i++;
 		}

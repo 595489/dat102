@@ -128,6 +128,7 @@ public class KjedetMengde<T> implements MengdeADT<T> {
 				// ...
 				return likeMengder;
 			}
+
 		}
 		return false;
 
